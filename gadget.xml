@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+  <ModulePrefs title="Sample mixi Application"></ModulePrefs>
+  <Content type="html">
+  <![CDATA[
+  <h1>Hello Social World!</h1>
+  ]]>
+  </Content>
+  <Content type="url" view="mobile" href="http://example.com/foobar.html" />
+</Module>
